@@ -32,6 +32,19 @@
         "quickSearch": 0,
         "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_js/金牌[优].js"
     },
+	{
+			"key": "py_hitvAPP.py",
+			"name": "hitvAPP[优](py)",
+			"type": 3,
+			"api": "https://cnb.cool/yyboos/bosyy/-/git/raw/main/py/plugin/app/hitvAPP.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": ""
+		},
+
+
     {
         "key": "drjs_苹果",
         "name": "苹果[优](DR)",
