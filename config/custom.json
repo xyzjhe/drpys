@@ -33,6 +33,14 @@
         "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_js/金牌[优].js"
     },
 	{
+      "key": "drjs_影探",
+      "name": "影探[优](DR)",
+      "type": 3,
+      "api": "csp_ApplvDV2",
+      "jar": "http://103.45.162.207:25252/tvbox/custom_spider.jar",
+      "ext": "0###WH5hCFZ2WEJ1BH1CVFxmQVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
+    },
+	{
 			"key": "py_hitvAPP.py",
 			"name": "hitvAPP[优](py)",
 			"type": 3,
