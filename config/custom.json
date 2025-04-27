@@ -22,6 +22,7 @@
 			"order_num": 12,
 			"ext": ""
 		},
+	{"key":"csp_影探蓝光","name":"💠影探蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cszb.lyyytv.cn/api.php/app/"},
 		{
         "key": "drjs_金牌",
         "name": "金牌[优](DR)",
