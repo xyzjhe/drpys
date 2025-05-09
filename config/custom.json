@@ -10,6 +10,16 @@
 			"order_num": 7,
 			"ext": ""
 		},
+	{
+      "key": "drpyS_人人[APP]",
+      "name": "🔶人人┃[APP]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/APPM[模版]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA8soKSkottLXLy7LLDDUSyvNU8lJzE/JTC1OSSwvLi5PLE5RAQBDNIHLIwAAAA=="
+    },
 		
 		{
 			"key": "live",
