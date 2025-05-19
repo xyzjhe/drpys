@@ -11,6 +11,16 @@
 			"ext": ""
 		},
 	{
+      "key": "drpyS_在看[APP]",
+      "name": "🔶在看┃[APP]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/APPM[模版]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA8soKSmw0tc3NLHUs7DQMzPRMzQztLI0NTJVMTQyNjE1M7ewdHRydnF1c1cBAHuN6osrAAAA"
+    },
+	{
       "key": "drpyS_人人[APP]",
       "name": "人人┃[APP]",
       "type": 4,
