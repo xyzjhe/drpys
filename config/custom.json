@@ -12,7 +12,7 @@
 		},
 	{
       "key": "drpyS_人人[APP]",
-      "name": "🔶人人┃[APP]",
+      "name": "人人┃[APP]",
       "type": 4,
       "api": "https://zhxy.eu.org/api/APPM[模版]",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
 	 {
       "key": "drpyS_晴天[APP]",
-      "name": "🔶晴天┃[APP]",
+      "name": "晴天┃[APP]",
       "type": 4,
       "api": "https://zhxy.eu.org/api/APPM[模版]",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "drpyS_若惜[APP]",
-      "name": "🔶若惜┃[APP]",
+      "name": "若惜┃[APP]",
       "type": 4,
       "api": "https://zhxy.eu.org/api/APPM[模版]",
       "searchable": 1,
